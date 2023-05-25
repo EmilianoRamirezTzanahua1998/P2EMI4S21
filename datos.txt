@@ -1,0 +1,3 @@
+{"nombre":"Gara","edad":33,"correo":""}
+{"nombre":"fabian","edad":23,"correo":"effgwergwrg"}
+{"nombre":"fabian","fecha":"20/07/2021","curp":"SA294IJRIWER93IWER"}
